@@ -2,4 +2,4 @@
 Readme
 
 ## 権利表記
-docsify-template -[MIT License](https://github.com/docsifyjs/docsify-template/blob/main/LICENSE)
+[docsify-template](https://github.com/docsifyjs/docsify-template/tree/main) -[MIT License](https://github.com/docsifyjs/docsify-template/blob/main/LICENSE)
