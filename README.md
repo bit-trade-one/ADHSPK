@@ -7,7 +7,9 @@
 
 ### 内容物画像
 
-![image](https://github.com/bit-trade-one/ADHSPK/assets/85532743/9853712b-19df-43f5-9d7d-a2fd106d59bc)
+<!-- ![image](https://github.com/bit-trade-one/ADHSPK/assets/85532743/9853712b-19df-43f5-9d7d-a2fd106d59bc) -->
+
+<img src="https://github.com/bit-trade-one/ADHSPK/assets/85532743/9853712b-19df-43f5-9d7d-a2fd106d59bc"  width="480" >
 
 
 ### 部品表
@@ -44,7 +46,9 @@
 
 ### はんだ付け方法
 
-![image](https://github.com/bit-trade-one/ADHSPK/assets/85532743/4c119683-7089-4bfa-83ac-97eec973dfa4)
+<!--![image](https://github.com/bit-trade-one/ADHSPK/assets/85532743/4c119683-7089-4bfa-83ac-97eec973dfa4)-->
+<img src="https://github.com/bit-trade-one/ADHSPK/assets/85532743/4c119683-7089-4bfa-83ac-97eec973dfa4"  width="480" >
+
 
 
 1. ランドの予熱  
@@ -60,7 +64,8 @@
 4. 確認  
     はんだ付けが完了したら、はんだの盛り上がりが適切であるか、部品の足とランドがしっかりと接合されているかを確認します。不十分な場合は、再度熱してください。 余分な長さの部品の足はニッパ等で切り落とします。
 
-![image](https://github.com/bit-trade-one/ADHSPK/assets/85532743/bf98cc4a-ed8b-4b13-b897-040dc0b9d2a9)
+<!--![image](https://github.com/bit-trade-one/ADHSPK/assets/85532743/bf98cc4a-ed8b-4b13-b897-040dc0b9d2a9)-->
+<img src="https://github.com/bit-trade-one/ADHSPK/assets/85532743/bf98cc4a-ed8b-4b13-b897-040dc0b9d2a9"  width="480" >
 
 富士山のような形のはんだ付けが正しいです。
 
@@ -74,15 +79,18 @@
 
 ### 抵抗 1kΩ
 基板上のシルクR2, R6, R7, R10, R11 に抵抗の足を折り曲げて差し込みます。
-![image](https://github.com/bit-trade-one/ADHSPK/assets/85532743/3faf9bd6-ec4c-439c-a247-f5dd436442e1)
+<!--![image](https://github.com/bit-trade-one/ADHSPK/assets/85532743/3faf9bd6-ec4c-439c-a247-f5dd436442e1)-->
+<img src="https://github.com/bit-trade-one/ADHSPK/assets/85532743/3faf9bd6-ec4c-439c-a247-f5dd436442e1"  width="480" >
 
 ラジペン等で足を直角に曲げるとキレイに仕上がります。
-![image](https://github.com/bit-trade-one/ADHSPK/assets/85532743/cbd2daf6-2ffe-4907-8108-3d73bf2e6630)
+<!--![image](https://github.com/bit-trade-one/ADHSPK/assets/85532743/cbd2daf6-2ffe-4907-8108-3d73bf2e6630)-->
+<img src="https://github.com/bit-trade-one/ADHSPK/assets/85532743/cbd2daf6-2ffe-4907-8108-3d73bf2e6630"  width="480" >
 
 
 反対側は足を少し開き落ちないようにします。
 
-![image](https://github.com/bit-trade-one/ADHSPK/assets/85532743/d8c94694-d39d-4f1c-ae83-8b440a322926)
+<!--![image](https://github.com/bit-trade-one/ADHSPK/assets/85532743/d8c94694-d39d-4f1c-ae83-8b440a322926)-->
+<img src="https://github.com/bit-trade-one/ADHSPK/assets/85532743/d8c94694-d39d-4f1c-ae83-8b440a322926"  width="480" >
 
 
 片側づつはんだ付けを行い、部品が基板から浮いていないか確認しながらはんだ付けを行うと良いです。
@@ -92,13 +100,15 @@
 
 ### 抵抗 10kΩ
 
-![image](https://github.com/bit-trade-one/ADHSPK/assets/85532743/2b265f26-f9a7-4482-972e-2dfb33bb1e44)
+<!--![image](https://github.com/bit-trade-one/ADHSPK/assets/85532743/2b265f26-f9a7-4482-972e-2dfb33bb1e44)-->
+<img src="https://github.com/bit-trade-one/ADHSPK/assets/85532743/2b265f26-f9a7-4482-972e-2dfb33bb1e44"  width="480" >
 
 基板上のシルクR1, R4, R5 に抵抗の足を折り曲げて差し込みます。
 
 ### 抵抗 1MΩ
 基板上のシルクR3, R8, R9 に抵抗の足を折り曲げて差し込みます。
-![image](https://github.com/bit-trade-one/ADHSPK/assets/85532743/1fdfbacb-3be4-4ab1-830b-60bc83edc726)
+<!--![image](https://github.com/bit-trade-one/ADHSPK/assets/85532743/1fdfbacb-3be4-4ab1-830b-60bc83edc726)-->
+<img src="https://github.com/bit-trade-one/ADHSPK/assets/85532743/1fdfbacb-3be4-4ab1-830b-60bc83edc726"  width="480" >
 
 
 
@@ -106,7 +116,8 @@
 
 基板上のシルクC1, C2, C3 に本体を倒して差し込みます。
 
-![image](https://github.com/bit-trade-one/ADHSPK/assets/85532743/8af6b7a6-43a5-4e5e-abf5-99846ec6e47f)
+<!--![image](https://github.com/bit-trade-one/ADHSPK/assets/85532743/8af6b7a6-43a5-4e5e-abf5-99846ec6e47f)-->
+<img src="https://github.com/bit-trade-one/ADHSPK/assets/85532743/8af6b7a6-43a5-4e5e-abf5-99846ec6e47f"  width="480" >
 
 このコンデンサは、表面に「104」と記載されています。これは容量を示しており、10という数字に後ろの4つのゼロを加えたもので、100000pF、つまり0.1uF（マイクロファラッド）の容量を意味します。セラミックコンデンサは極性がないため、どちら向きに挿しても問題ありません。
 
@@ -114,28 +125,32 @@
 基板上のシルク Q1 に本体を倒して差し込みます。
 部品表面に型番が書いてあるので9013とよく見て見分けてください。
 
-![image](https://github.com/bit-trade-one/ADHSPK/assets/85532743/7aab7cbc-299b-4e54-84b2-5cacc527e90c)
+<!--![image](https://github.com/bit-trade-one/ADHSPK/assets/85532743/7aab7cbc-299b-4e54-84b2-5cacc527e90c)-->
+<img src="https://github.com/bit-trade-one/ADHSPK/assets/85532743/7aab7cbc-299b-4e54-84b2-5cacc527e90c"  width="480" >
 
 
 
 ### 9013トランジスタ 
 基板上のシルク Q2, Q3, Q4 に本体を倒して差し込みます。
 
-![image](https://github.com/bit-trade-one/ADHSPK/assets/85532743/f011ff20-22eb-415b-a8d4-9e0913bdc1e6)
+<!--![image](https://github.com/bit-trade-one/ADHSPK/assets/85532743/f011ff20-22eb-415b-a8d4-9e0913bdc1e6)-->
+<img src="https://github.com/bit-trade-one/ADHSPK/assets/85532743/f011ff20-22eb-415b-a8d4-9e0913bdc1e6"  width="480" >
 
 
 
 ### CR927ボタン電池ホルダ
 基板上のシルク BT1, BT2 に差し込みます。
 とても傾きやすいので片側づつはんだ付けを行い、部品が基板から浮いていないか確認しながらはんだ付けを行うと良いです。
-![image](https://github.com/bit-trade-one/ADHSPK/assets/85532743/780fc7e8-090a-4df4-a59a-89319e1d9d59)
+<!--![image](https://github.com/bit-trade-one/ADHSPK/assets/85532743/780fc7e8-090a-4df4-a59a-89319e1d9d59)-->
+<img src="https://github.com/bit-trade-one/ADHSPK/assets/85532743/780fc7e8-090a-4df4-a59a-89319e1d9d59"  width="480" >
 
 
 
 
 ### タクトスイッチ
 SW(裏面)
-![image](https://github.com/bit-trade-one/ADHSPK/assets/85532743/739a47cf-f287-49af-ac94-35d6f17c7465)
+<!--![image](https://github.com/bit-trade-one/ADHSPK/assets/85532743/739a47cf-f287-49af-ac94-35d6f17c7465)-->
+<img src="https://github.com/bit-trade-one/ADHSPK/assets/85532743/739a47cf-f287-49af-ac94-35d6f17c7465"  width="480" >
 
 
 表面実装に挑戦！
@@ -150,13 +165,15 @@ SW(裏面)
 ①4つの内1つのランドに若干ハンダを盛ります。 これを予備はんだと呼びます。  
 ②予備はんだを再度熱しつつ、ピンセットで掴んだスイッチをスライドさせてはんだ付けを行います。曲がってしまった場合ははんだを再度熱し角度を調節してください。  
 ③位置が決まったら空いてるランドにもはんだ付けを行い完了です。 必要に応じて予備はんだした箇所にもはんだを足してください。 
-![image](https://github.com/bit-trade-one/ADHSPK/assets/85532743/edc5d042-2ab7-4811-b26c-50251e23c5ff)
+<!--![image](https://github.com/bit-trade-one/ADHSPK/assets/85532743/edc5d042-2ab7-4811-b26c-50251e23c5ff)-->
+<img src="https://github.com/bit-trade-one/ADHSPK/assets/85532743/edc5d042-2ab7-4811-b26c-50251e23c5ff"  width="480" >
 
 
 
 ### LED
 基板上のシルクD1, D2, D3, D4にLEDを差し込みます。
-![image](https://github.com/bit-trade-one/ADHSPK/assets/85532743/53aad21f-e890-40dc-8504-7af2c2924e20)
+<!--![image](https://github.com/bit-trade-one/ADHSPK/assets/85532743/53aad21f-e890-40dc-8504-7af2c2924e20)-->
+<img src="https://github.com/bit-trade-one/ADHSPK/assets/85532743/53aad21f-e890-40dc-8504-7af2c2924e20"  width="480" >
 
 
 LEDはダイオードという部品のため極性があります。
@@ -164,7 +181,8 @@ LEDはダイオードという部品のため極性があります。
 
 また、点灯しないと色がわからないため、本体にテスト電池を挿入し、裏面SWを押し導通された状態にしてLEDをD1～D4いずれかのランドに当ててみることにより発光し色がわかります。D1～D4どこに何色を差しても問題ないので好きな順番ではんだ付けを行ってください。
 
-![image](https://github.com/bit-trade-one/ADHSPK/assets/85532743/9d03e22b-4492-4b37-8e31-5e48b979f59a)
+<!--![image](https://github.com/bit-trade-one/ADHSPK/assets/85532743/9d03e22b-4492-4b37-8e31-5e48b979f59a)-->
+<img src="https://github.com/bit-trade-one/ADHSPK/assets/85532743/9d03e22b-4492-4b37-8e31-5e48b979f59a"  width="480" >
 
 
 電池が入った状態でSWを押すたびにLEDの点灯・消灯が切り替われば回路は完成です。  
@@ -173,12 +191,14 @@ LEDはダイオードという部品のため極性があります。
 ## 組み立て
 下記画像のように差し込んでゆき、組み立てを行います。  
 基板のスイッチ面とケースのスイッチ箇所が正しいか注意してください。
-![image](https://github.com/bit-trade-one/ADHSPK/assets/85532743/212c2f96-7bd9-4b67-8b49-b3750ec1103b)
+<!--![image](https://github.com/bit-trade-one/ADHSPK/assets/85532743/212c2f96-7bd9-4b67-8b49-b3750ec1103b)-->
+<img src="https://github.com/bit-trade-one/ADHSPK/assets/85532743/212c2f96-7bd9-4b67-8b49-b3750ec1103b"  width="480" >
 
 
 うまくハマったら完成です。  
 付属のタッピングネジを取り付けると剛性が上がりますが、電池交換が難しくなるのでタイミングを見てネジの取り付けを行ってください。
-![image](https://github.com/bit-trade-one/ADHSPK/assets/85532743/ed00f356-71aa-4166-91b3-d790f41269a6)
+<!--![image](https://github.com/bit-trade-one/ADHSPK/assets/85532743/ed00f356-71aa-4166-91b3-d790f41269a6)-->
+<img src="https://github.com/bit-trade-one/ADHSPK/assets/85532743/ed00f356-71aa-4166-91b3-d790f41269a6"  width="480" >
 
 
 **これでハンドスピナーは完成です。お疲れ様でした。**  
@@ -187,7 +207,8 @@ LEDはダイオードという部品のため極性があります。
 
 ## 回路について
 
-![image](https://github.com/bit-trade-one/ADHSPK/assets/85532743/bc6624b4-5380-4bdd-abfd-3ff4771f72a9)
+<!--![image](https://github.com/bit-trade-one/ADHSPK/assets/85532743/bc6624b4-5380-4bdd-abfd-3ff4771f72a9)-->
+<img src="https://github.com/bit-trade-one/ADHSPK/assets/85532743/bc6624b4-5380-4bdd-abfd-3ff4771f72a9"  width="480" >
 
 
 ### 使用電子部品
@@ -225,7 +246,8 @@ LEDはダイオードという部品のため極性があります。
 
 ### 点灯・消灯回路の簡易説明
 
-![image](https://github.com/bit-trade-one/ADHSPK/assets/85532743/0ffb3c1b-fad5-492a-a5d3-b4f8dc6af2b3)
+<!--![image](https://github.com/bit-trade-one/ADHSPK/assets/85532743/0ffb3c1b-fad5-492a-a5d3-b4f8dc6af2b3)-->
+<img src="https://github.com/bit-trade-one/ADHSPK/assets/85532743/0ffb3c1b-fad5-492a-a5d3-b4f8dc6af2b3"  width="480" >
 
 
 この回路は、ボタン（S1）を押すごとにLEDの点灯・消灯を切り替えます。トランジスタQ1（PNP型）とQ2（NPN型）は、このトグル動作を実現するために使用されています。
@@ -240,7 +262,8 @@ LEDはダイオードという部品のため極性があります。
 
 ### 非安定マルチバイブレータ回路
 
-![image](https://github.com/bit-trade-one/ADHSPK/assets/85532743/6f4955ee-219c-447a-9c63-544ed7f23f4b)
+<!--![image](https://github.com/bit-trade-one/ADHSPK/assets/85532743/6f4955ee-219c-447a-9c63-544ed7f23f4b)-->
+<img src="https://github.com/bit-trade-one/ADHSPK/assets/85532743/6f4955ee-219c-447a-9c63-544ed7f23f4b"  width="480" >
 
 
 右側の非安定マルチバイブレータは、トランジスタのスイッチング動作とコンデンサの充電・放電を利用して、一定の幅のパルスを生成する回路です。
