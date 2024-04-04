@@ -20,7 +20,7 @@
 
 ### 内容物画像
 
-<!-- ![image](https://github.com/bit-trade-one/ADHSPK/assets/85532743/8c739fff-fc55-4297-8bd1-ce66be1bb7ab) -->!
+<!-- ![image](https://github.com/bit-trade-one/ADHSPK/assets/85532743/8c739fff-fc55-4297-8bd1-ce66be1bb7ab) -->
 
 
 <img src="https://github.com/bit-trade-one/ADHSPK/assets/85532743/8c739fff-fc55-4297-8bd1-ce66be1bb7ab"  width="600" >
