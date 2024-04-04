@@ -1,4 +1,17 @@
 # ADHSPK 組み立て説明書
+<!-- 編集の際はこちらのREADME.mdを編集してもらえると勝手にデプロイされます。 -->
+
+## 必要な道具
+- はんだこて
+- はんだ（0.8～1.0mm推奨）
+- ニッパー
+
+## あると便利なもの
+- はんだこて台
+- スポンジまたはコテ先クリーナー
+- ラジオペンチ
+- ピンセット
+- テスター
 
 ## 内容物
 
@@ -9,7 +22,7 @@
 
 <!-- ![image](https://github.com/bit-trade-one/ADHSPK/assets/85532743/9853712b-19df-43f5-9d7d-a2fd106d59bc) -->
 
-<img src="https://github.com/bit-trade-one/ADHSPK/assets/85532743/9853712b-19df-43f5-9d7d-a2fd106d59bc"  width="480" >
+<img src="https://github.com/bit-trade-one/ADHSPK/assets/85532743/9853712b-19df-43f5-9d7d-a2fd106d59bc"  width="600" >
 
 
 ### 部品表
@@ -32,6 +45,8 @@
 | -        |  2 | ベアリングキャップ(持ち手)上下 |
 | -        |  4 | タッピングネジ  |
 | -        |  2 | CR927テスト電池 |
+
+> 💡 **TIP:** 抵抗のカラーコードは、抵抗の値を色で表したものです。各色は特定の数字を表し、通常は4つの帯で構成されます。最初の2つの帯は抵抗の値を示し、3つ目の帯は乗数（何桁増やすか）、4つ目の帯は許容誤差を示します。例えば、**茶黒橙金**の場合、`1(茶)0(黒)×10^3(橙)`、許容誤差`±5%(金)`となり、`10KΩ`の抵抗を意味します。
 
 
 ## はんだ付け
@@ -79,8 +94,9 @@
 
 ### 抵抗 1kΩ
 基板上のシルクR2, R6, R7, R10, R11 に抵抗の足を折り曲げて差し込みます。
-<!--![image](https://github.com/bit-trade-one/ADHSPK/assets/85532743/3faf9bd6-ec4c-439c-a247-f5dd436442e1)-->
-<img src="https://github.com/bit-trade-one/ADHSPK/assets/85532743/3faf9bd6-ec4c-439c-a247-f5dd436442e1"  width="480" >
+<!--  ![image](https://github.com/bit-trade-one/ADHSPK/assets/85532743/0c114c73-9502-4c88-b86d-762054a3666e)
+ -->
+<img src="https://github.com/bit-trade-one/ADHSPK/assets/85532743/0c114c73-9502-4c88-b86d-762054a3666e"  width="480" >
 
 ラジペン等で足を直角に曲げるとキレイに仕上がります。
 <!--![image](https://github.com/bit-trade-one/ADHSPK/assets/85532743/cbd2daf6-2ffe-4907-8108-3d73bf2e6630)-->
@@ -89,26 +105,30 @@
 
 反対側は足を少し開き落ちないようにします。
 
-<!--![image](https://github.com/bit-trade-one/ADHSPK/assets/85532743/d8c94694-d39d-4f1c-ae83-8b440a322926)-->
-<img src="https://github.com/bit-trade-one/ADHSPK/assets/85532743/d8c94694-d39d-4f1c-ae83-8b440a322926"  width="480" >
+<!--    ![image](https://github.com/bit-trade-one/ADHSPK/assets/85532743/408d1865-6ba1-44f7-8132-2f6271c25587)
+-->
+<img src="https://github.com/bit-trade-one/ADHSPK/assets/85532743/408d1865-6ba1-44f7-8132-2f6271c25587"  width="480" >
 
 
-片側づつはんだ付けを行い、部品が基板から浮いていないか確認しながらはんだ付けを行うと良いです。
-はんだ付けが完了したら余分な部品の足は切り離してください。
-これで1kΩ抵抗のはんだ付けは完了です。
+片側づつはんだ付けを行い、部品が基板から浮いていないか確認しながらはんだ付けを行うと良いです。  
+はんだ付けが完了したら余分な部品の足は切り離してください。  
+これで1kΩ抵抗のはんだ付けは完了です。  
 
 
 ### 抵抗 10kΩ
 
-<!--![image](https://github.com/bit-trade-one/ADHSPK/assets/85532743/2b265f26-f9a7-4482-972e-2dfb33bb1e44)-->
-<img src="https://github.com/bit-trade-one/ADHSPK/assets/85532743/2b265f26-f9a7-4482-972e-2dfb33bb1e44"  width="480" >
+<!--  ![image](https://github.com/bit-trade-one/ADHSPK/assets/85532743/9f93fdad-a6d2-46e6-8bbd-acab3d57162f)
+
+-->
+<img src="https://github.com/bit-trade-one/ADHSPK/assets/85532743/9f93fdad-a6d2-46e6-8bbd-acab3d57162f"  width="480" >
 
 基板上のシルクR1, R4, R5 に抵抗の足を折り曲げて差し込みます。
 
 ### 抵抗 1MΩ
 基板上のシルクR3, R8, R9 に抵抗の足を折り曲げて差し込みます。
-<!--![image](https://github.com/bit-trade-one/ADHSPK/assets/85532743/1fdfbacb-3be4-4ab1-830b-60bc83edc726)-->
-<img src="https://github.com/bit-trade-one/ADHSPK/assets/85532743/1fdfbacb-3be4-4ab1-830b-60bc83edc726"  width="480" >
+<!-- ![image](https://github.com/bit-trade-one/ADHSPK/assets/85532743/2c4e053b-05bf-491b-806a-96f41b4cdd27)
+ -->
+<img src="https://github.com/bit-trade-one/ADHSPK/assets/85532743/2c4e053b-05bf-491b-806a-96f41b4cdd27"  width="480" >
 
 
 
@@ -116,8 +136,9 @@
 
 基板上のシルクC1, C2, C3 に本体を倒して差し込みます。
 
-<!--![image](https://github.com/bit-trade-one/ADHSPK/assets/85532743/8af6b7a6-43a5-4e5e-abf5-99846ec6e47f)-->
-<img src="https://github.com/bit-trade-one/ADHSPK/assets/85532743/8af6b7a6-43a5-4e5e-abf5-99846ec6e47f"  width="480" >
+<!--  ![image](https://github.com/bit-trade-one/ADHSPK/assets/85532743/cfcf1abe-1abe-4996-b461-72109ee4ce28)
+-->
+<img src="https://github.com/bit-trade-one/ADHSPK/assets/85532743/cfcf1abe-1abe-4996-b461-72109ee4ce28"  width="480" >
 
 このコンデンサは、表面に「104」と記載されています。これは容量を示しており、10という数字に後ろの4つのゼロを加えたもので、100000pF、つまり0.1uF（マイクロファラッド）の容量を意味します。セラミックコンデンサは極性がないため、どちら向きに挿しても問題ありません。
 
@@ -125,16 +146,18 @@
 基板上のシルク Q1 に本体を倒して差し込みます。
 部品表面に型番が書いてあるので9013とよく見て見分けてください。
 
-<!--![image](https://github.com/bit-trade-one/ADHSPK/assets/85532743/7aab7cbc-299b-4e54-84b2-5cacc527e90c)-->
-<img src="https://github.com/bit-trade-one/ADHSPK/assets/85532743/7aab7cbc-299b-4e54-84b2-5cacc527e90c"  width="480" >
+<!--  ![image](https://github.com/bit-trade-one/ADHSPK/assets/85532743/b630ee6d-f62d-4d94-9aa7-b754175e7849)
+-->
+<img src="https://github.com/bit-trade-one/ADHSPK/assets/85532743/b630ee6d-f62d-4d94-9aa7-b754175e7849"  width="480" >
 
 
 
 ### 9013トランジスタ 
 基板上のシルク Q2, Q3, Q4 に本体を倒して差し込みます。
 
-<!--![image](https://github.com/bit-trade-one/ADHSPK/assets/85532743/f011ff20-22eb-415b-a8d4-9e0913bdc1e6)-->
-<img src="https://github.com/bit-trade-one/ADHSPK/assets/85532743/f011ff20-22eb-415b-a8d4-9e0913bdc1e6"  width="480" >
+<!--  ![image](https://github.com/bit-trade-one/ADHSPK/assets/85532743/24536e1d-3c73-44f1-b334-2b0977c1717b)
+ -->
+<img src="https://github.com/bit-trade-one/ADHSPK/assets/85532743/24536e1d-3c73-44f1-b334-2b0977c1717b"  width="480" >
 
 
 
