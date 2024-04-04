@@ -7,7 +7,8 @@
 
 ### 内容物画像
 
-[部品一覧画像]
+![image](https://github.com/bit-trade-one/ADHSPK/assets/85532743/9853712b-19df-43f5-9d7d-a2fd106d59bc)
+
 
 ### 部品表
 
