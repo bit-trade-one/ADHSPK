@@ -250,8 +250,10 @@ D1～D4どこに何色を差しても問題ないので好きな順番ではん�
 
 ## 回路について
 
-<!--![image](https://github.com/bit-trade-one/ADHSPK/assets/85532743/bc6624b4-5380-4bdd-abfd-3ff4771f72a9)-->
-<img src="https://github.com/bit-trade-one/ADHSPK/assets/85532743/bc6624b4-5380-4bdd-abfd-3ff4771f72a9"  width="600" >
+<!--![image](https://github.com/bit-trade-one/ADHSPK/assets/85532743/ab7d7620-5848-423f-a3b9-5b3b272f6dde)-->
+<img src="https://github.com/bit-trade-one/ADHSPK/assets/85532743/ab7d7620-5848-423f-a3b9-5b3b272f6dde"  width="600" >
+
+
 
 
 ### 使用電子部品
@@ -289,8 +291,9 @@ D1～D4どこに何色を差しても問題ないので好きな順番ではん�
 
 ### 点灯・消灯回路の簡易説明
 
-<!--![image](https://github.com/bit-trade-one/ADHSPK/assets/85532743/0ffb3c1b-fad5-492a-a5d3-b4f8dc6af2b3)-->
-<img src="https://github.com/bit-trade-one/ADHSPK/assets/85532743/0ffb3c1b-fad5-492a-a5d3-b4f8dc6af2b3"  width="600" >
+
+<!--![image](https://github.com/bit-trade-one/ADHSPK/assets/85532743/8c06946d-1c41-4367-a7cd-12064c0c0706)-->
+<img src="https://github.com/bit-trade-one/ADHSPK/assets/85532743/8c06946d-1c41-4367-a7cd-12064c0c0706"  width="600" >
 
 
 この回路は、ボタン（S1）を押すごとにLEDの点灯・消灯を切り替えます。トランジスタQ1（PNP型）とQ2（NPN型）は、このトグル動作を実現するために使用されています。
@@ -305,8 +308,9 @@ D1～D4どこに何色を差しても問題ないので好きな順番ではん�
 
 ### 非安定マルチバイブレータ回路
 
-<!--![image](https://github.com/bit-trade-one/ADHSPK/assets/85532743/6f4955ee-219c-447a-9c63-544ed7f23f4b)-->
-<img src="https://github.com/bit-trade-one/ADHSPK/assets/85532743/6f4955ee-219c-447a-9c63-544ed7f23f4b"  width="600" >
+
+<!--![image](https://github.com/bit-trade-one/ADHSPK/assets/85532743/48b9b677-0664-4fb9-853a-a6e0a35b11c9)-->
+<img src="https://github.com/bit-trade-one/ADHSPK/assets/85532743/48b9b677-0664-4fb9-853a-a6e0a35b11c9"  width="600" >
 
 
 右側の非安定マルチバイブレータは、トランジスタのスイッチング動作とコンデンサの充電・放電を利用して、一定の幅のパルスを生成する回路です。
